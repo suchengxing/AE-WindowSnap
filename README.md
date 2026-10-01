@@ -1,4 +1,4 @@
-# AE-WindowSnap-English-
+# AE-WindowSnap/ AE窗口收纳盒
 一款专为 After Effects 设计的窗口管理工具，可快速收纳与呼出浮动脚本窗口，释放工作区空间。支持简体中文、English、日本語。
 A window management tool designed for After Effects. Quickly hide and recall floating script panels to free up workspace. Supports Simplified Chinese, English, and Japanese.
 After Effects向けに設計されたウィンドウ管理ツールです。フローティングスクリプトパネルをすばやく収納・呼び出しでき、作業スペースをより広く快適に使えます。簡体字中国語・英語・日本語に対応しています。
