@@ -11,7 +11,13 @@ After Effects向けに設計されたウィンドウ管理ツールです。フ�
 当前版本 / Current version / 現在のバージョン：**V1.1.0**  
 平台 / Platform / 対応 OS：**Windows**  
 作者 / Creator / 作者：**@苏承欣**
+## 🎬 教程与演示 / Tutorial & Demo / チュートリアル
 
+🇨🇳 [哔哩哔哩：AE-WindowSnap 使用教程](https://www.bilibili.com/video/BV1Gbao6aEDn/)
+
+> 包含软件安装、窗口收纳、快捷呼出以及实际 After Effects 使用效果演示。
+**English:** Installation, window management and After Effects workflow demonstration.
+**日本語:** インストール方法、ウィンドウ収納機能、After Effects での使用例を紹介しています。
 ---
 
 简体中文
