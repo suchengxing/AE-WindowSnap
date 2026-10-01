@@ -35,6 +35,7 @@ After Effects向けに設計されたウィンドウ管理ツールです。フ�
 - **AE 渲染后操作**：配合 AE 渲染助手脚本，在全部监测任务成功完成后，可执行关机、睡眠或退出 AE；支持 30 秒、1 分钟、5 分钟延迟及倒计时取消。
 - **外观与语言**：支持浅色、深色外观和自定义主题色；内置简体中文、繁體中文、日本語、English。
 - **学习页面**：提供四卷 PDF 阅读入口、对应有声内容链接，以及带悬停和点击反馈的插画入口。
+<img width="1542" height="1280" alt="china" src="https://github.com/user-attachments/assets/cb2682ec-b350-43fe-aeca-e51c50366995" />
 
 ### V1.1.0 新增
 
@@ -73,6 +74,7 @@ Good Good Box (GGB) is a Windows utility for managing floating script and plug-i
 - **After-render actions:** With the AE render helper script, shut down, sleep or quit AE after all monitored tasks finish successfully. Choose a 30-second, 1-minute or 5-minute delay, with a cancellable countdown.
 - **Appearance and languages:** Light and dark themes, custom accent colors, and Simplified Chinese, Traditional Chinese, Japanese and English interfaces.
 - **Learning library:** Access four PDF volumes, their audio-content links and an interactive illustration with hover and click feedback.
+<img width="1542" height="1280" alt="English" src="https://github.com/user-attachments/assets/137c1357-380b-4e3b-8921-87df2555f763" />
 
 ### New in V1.1.0
 
@@ -111,6 +113,7 @@ Good Good Box（GGB）は、Adobe After Effects のスクリプトやプラグ�
 - **レンダリング完了後の操作**：AE レンダリング補助スクリプトと連携し、監視対象の全タスクが正常に完了した後に、シャットダウン、スリープ、AE の終了を実行できます。待ち時間は 30 秒・1 分・5 分から選択でき、カウントダウン中にキャンセルできます。
 - **外観と言語**：ライト・ダークテーマ、アクセントカラーの変更、簡体字中国語・繁体字中国語・日本語・英語に対応しています。
 - **学習ページ**：全4巻の PDF、対応する音声コンテンツへのリンク、ホバー・クリック時に反応するイラストを利用できます。
+<img width="1542" height="1280" alt="日本语" src="https://github.com/user-attachments/assets/0d54ca0c-7035-44e8-b240-611cd88fa8de" />
 
 ### V1.1.0 の新機能
 
